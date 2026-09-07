@@ -1,0 +1,14 @@
+/Users/macbookair/project-code/cSharp/PenggajianKaryawan/bin/Debug/net9.0/PenggajianKaryawan
+/Users/macbookair/project-code/cSharp/PenggajianKaryawan/bin/Debug/net9.0/PenggajianKaryawan.deps.json
+/Users/macbookair/project-code/cSharp/PenggajianKaryawan/bin/Debug/net9.0/PenggajianKaryawan.runtimeconfig.json
+/Users/macbookair/project-code/cSharp/PenggajianKaryawan/bin/Debug/net9.0/PenggajianKaryawan.dll
+/Users/macbookair/project-code/cSharp/PenggajianKaryawan/bin/Debug/net9.0/PenggajianKaryawan.pdb
+/Users/macbookair/project-code/cSharp/PenggajianKaryawan/obj/Debug/net9.0/PenggajianKaryawan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/project-code/cSharp/PenggajianKaryawan/obj/Debug/net9.0/PenggajianKaryawan.AssemblyInfoInputs.cache
+/Users/macbookair/project-code/cSharp/PenggajianKaryawan/obj/Debug/net9.0/PenggajianKaryawan.AssemblyInfo.cs
+/Users/macbookair/project-code/cSharp/PenggajianKaryawan/obj/Debug/net9.0/PenggajianKaryawan.csproj.CoreCompileInputs.cache
+/Users/macbookair/project-code/cSharp/PenggajianKaryawan/obj/Debug/net9.0/PenggajianKaryawan.dll
+/Users/macbookair/project-code/cSharp/PenggajianKaryawan/obj/Debug/net9.0/refint/PenggajianKaryawan.dll
+/Users/macbookair/project-code/cSharp/PenggajianKaryawan/obj/Debug/net9.0/PenggajianKaryawan.pdb
+/Users/macbookair/project-code/cSharp/PenggajianKaryawan/obj/Debug/net9.0/PenggajianKaryawan.genruntimeconfig.cache
+/Users/macbookair/project-code/cSharp/PenggajianKaryawan/obj/Debug/net9.0/ref/PenggajianKaryawan.dll
